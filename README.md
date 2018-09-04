@@ -9,3 +9,4 @@
 # Overview
 this code shows , how you can connect your ESP8266ardiuno board to DeviceHive server and send temperature and humidity data over MQTT protocol.I use Wemos D1 Board with ESP8266 Chipset and SHT21 sensor to read temperature and humidity.
 # How to connect sht21 sensor to Wemos D1 board
+![Screenshot](How To connect sht21 to wemos D1.jpg)
