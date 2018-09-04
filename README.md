@@ -12,4 +12,6 @@ this code shows , how you can connect your ESP8266ardiuno board to DeviceHive se
 ![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/How%20To%20connect%20sht21%20to%20wemos%20D1.jpg)
 # Modify Libraries
 ## Modify PubSubClient.h
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20PubSubClient.h.png)
 ## Modify Sodaq_SHT2x.cpp
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
