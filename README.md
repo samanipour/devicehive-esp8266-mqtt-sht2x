@@ -16,14 +16,22 @@ this code shows , how you can connect your ESP8266ardiuno board to DeviceHive se
 ## Modify Sodaq_SHT2x.cpp
 ![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
 # Check Data in DeviceHive admin panel
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-# Create Grafana Dashboard
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
-![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+## check if device Register Successfully
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/admin%20panel1.PNG)
+## see Data in notification tab
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/admin%20panel2.PNG)
+# Create Grafana Dashboard for visualization
+## Grafana Data source configuration
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Data%20source%20configuration.PNG)
+## Grafana Temperature graph
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Grafana%20Temperature%20graph.PNG)
+## Grafana Humidity graph
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Grafana%20Humidity%20graph.PNG)
+## Grafana Temperature 3DGauge
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Grafana%20Temperature%20gauge.PNG)
+## Grafana Humidity 3DGauge
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Grafana%20Himidity%20gauge.PNG)
+## Your Final Grafana Dashboard
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Grafana%20dashboard.PNG)
 
 
