@@ -15,3 +15,15 @@ this code shows , how you can connect your ESP8266ardiuno board to DeviceHive se
 ![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20PubSubClient.h.png)
 ## Modify Sodaq_SHT2x.cpp
 ![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+# Check Data in DeviceHive admin panel
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+# Create Grafana Dashboard
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+![alt text](https://github.com/samanipour/devicehive-esp8266-mqtt-sht2x/blob/master/screenshots/Modify%20Sodaq_SHT2x.cpp.png)
+
+
